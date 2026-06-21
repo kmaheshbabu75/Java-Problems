@@ -7,5 +7,8 @@ public class LastSecondDigit {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
+        int lastSecondDigit = (n / 10) % 10;
+
+        System.out.println(lastSecondDigit);
     }
 }
