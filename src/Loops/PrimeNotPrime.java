@@ -24,4 +24,3 @@ public class PrimeNotPrime {
     }
 }
 
-//commited
