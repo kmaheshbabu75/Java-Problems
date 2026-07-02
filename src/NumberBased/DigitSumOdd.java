@@ -13,7 +13,8 @@ public class DigitSumOdd {
                 sum += digit;
             }
         }
-        System.out.println(sum);
+        System.out.println(" the sum of the digits are " +sum);
     }
 }
+git
 
